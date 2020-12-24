@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Olotu Praise Jah" 
 Use the left arrow to go back!
